@@ -4,3 +4,5 @@ chmod --reference=olleh hello
 chmod --reference=olleh hello
 #!/bin/bash
 chmod --reference=olleh hello
+#!/bin/bash
+chown --reference=olleh hello
